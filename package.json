@@ -1,0 +1,19 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "My first project",
+  "homepage": "https://github.com/ef10res/cse-341-project1#readme",
+  "bugs": {
+    "url": "https://github.com/ef10res/cse-341-project1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ef10res/cse-341-project1.git"
+  },
+  "author": "Erick Flores",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
